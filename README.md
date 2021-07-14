@@ -33,15 +33,7 @@
 <br />
 
 ---
-### Overall Stats:
 
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=ditya0398&count_private=true&theme=prussian)](https://github.com/ditya0398)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ditya0398&layout=compact&count_private=true&theme=prussian)](https://github.com/ditya0398)
-
----
 
 
 <!--
