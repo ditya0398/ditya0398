@@ -35,7 +35,7 @@
 ---
 ### Overall Stats:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ditya0398&count_private=true&theme=prussian)](https://github.com/ditya0398)
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=ditya0398&count_private=true&theme=prussian)](https://github.com/ditya0398)
 
 ---
 
