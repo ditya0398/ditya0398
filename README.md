@@ -1,4 +1,5 @@
 ### Hi there, I am Aditya 👋
+### I am working as a Graphics Developer
 
 
 - 🔭 Currently working on : C, C++,CUDA,OpenGL,DirectX
