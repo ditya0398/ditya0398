@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on : C, C++,CUDA,OpenGL,DirectX
 
-- 🌱 Currently learning   : OpenGL, DirectX, CUDA, OpenCL
+- 🌱 Currently learning   : WebGPU, OpenGL, DirectX, CUDA, OpenCL
 
 ---
 ### Languages and Tools:
