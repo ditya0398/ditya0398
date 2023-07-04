@@ -2,7 +2,7 @@
 ### I am working as a Graphics Engineer at Avataar.ai, Bangalore
 
 
-- 🔭 Currently working on : C, C++,CUDA,OpenGL,DirectX
+- 🔭 Currently working on : C, C++,CUDA,OpenGL,DirectX, WebGL, WebGPU
 
 - 🌱 Currently learning   : WebGPU, OpenGL, DirectX, CUDA, OpenCL
 
@@ -13,6 +13,7 @@
 <img align="left" alt="C++" height="30px" src="https://api.iconify.design/logos:c-plusplus.svg" />
 <img align="left" alt="OpenGL" height="30px" src="https://api.iconify.design/logos:opengl.svg" />
 <img align="left" alt="WebGL" height="30px" src="https://api.iconify.design/simple-icons:webgl.svg" />
+<img align="left" alt="WebGPU" height="30px" src="https://api.iconify.design/logos:webgpu.svg" />
 <img align="left" alt="Vim" height="30px" src="https://api.iconify.design/logos:vim.svg" />
 <img align="left" alt="Visual Studio" height="30px" src="https://api.iconify.design/logos:visual-studio.svg" />
 <img align="left" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
