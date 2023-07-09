@@ -1,5 +1,5 @@
 ### Hi there, I am Aditya 👋
-### I am working as a Graphics Engineer at Avataar.ai, Bangalore
+### I am working as a Graphics Engineer at ShareChat, Bangalore
 
 
 - 🔭 Currently working on : C, C++,CUDA,OpenGL,DirectX, WebGL, WebGPU
