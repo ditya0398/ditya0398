@@ -2,7 +2,7 @@
 ### I am working as a Graphics Engineer II at Avataar.ai, Bangalore
 
 
-- 🔭 Currently working on : C, C++,CUDA,OpenGL,DirectX, WebGL, WebGPU
+- 🔭 Currently working on : C, C++,CUDA,OpenGL,DirectX, WebGL, WebGPU, Vulkan
 
 - 🌱 Currently learning   : WebGPU, OpenGL, DirectX, CUDA, OpenCL
 
