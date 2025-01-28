@@ -11,7 +11,7 @@
 
 <img align="left" alt="C" height="30px" src="https://api.iconify.design/logos:c.svg" />
 <img align="left" alt="C++" height="30px" src="https://api.iconify.design/logos:c-plusplus.svg" />
-<img align="left" alt="OpenGL" height="30px" src="https://api.iconify.design/logos:vulkan" />
+<img align="left" alt="OpenGL" height="30px" src="https://api.iconify.design/logos:vulkan.svg" />
 <img align="left" alt="OpenGL" height="30px" src="https://api.iconify.design/logos:opengl.svg" />
 <img align="left" alt="WebGL" height="30px" src="https://api.iconify.design/simple-icons:webgl.svg" />
 <img align="left" alt="WebGPU" height="30px" src="https://api.iconify.design/logos:webgpu.svg" />
