@@ -2,7 +2,7 @@
 ### I am working as a Graphics Engineer II at Avataar.ai, Bangalore
 
 
-- 🔭 Currently working on : Vulkan, OpenGL, WebGL, WebGPU, GLSl, HLSL, CUDA, OpenCL, C, C++
+- 🔭 Currently working on : Vulkan, OpenGL, WebGL, WebGPU, GLSL, HLSL, CUDA, OpenCL, C, C++
 
 - 🌱 Currently learning   : Vulkan & WebGPU
 
