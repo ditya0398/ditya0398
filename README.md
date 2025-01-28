@@ -1,4 +1,4 @@
-### Hi there, I am Aditya 👋
+### Hi there, I am Aditya Kailash 👋
 ### I am working as a Graphics Engineer II at Avataar.ai, Bangalore
 
 
